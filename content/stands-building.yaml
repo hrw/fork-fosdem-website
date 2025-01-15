@@ -25,12 +25,12 @@ stand_list:
                 - name: GNU Radio
                 - name: Meshtastic
                 - name: Infostand on amateur radio
-  - name: F (level 0)
+  - name: F (level 1)
     map: map_f
     groups:
       - info:
           building: F
-          floor: 1
+          floor: 2
           groop: A
           amount: 6
         stands:
@@ -75,7 +75,7 @@ stand_list:
       - info:
           building: J
           floor: 1
-          groop: 106
+          groop: A
           amount: 1
         stands:
           - theme:
@@ -180,12 +180,12 @@ stand_list:
                 - name: Linphone
                 - name: Matrix.org Foundation
                 - name: Realtime Lounge
-  - name: UA (level 0)
+  - name: UA (level 1)
     map: map_ua
     groups:
       - info:
           building: UA
-          floor: 1
+          floor: 2
           groop: A
           amount: 8
         stands:
